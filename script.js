@@ -1,2 +1,1 @@
-console.log();
-alert("Hell");
+"user script";
